@@ -30,36 +30,56 @@ https://github.com/careercup/CtCI-6th-Edition
 https://the-algorithms.com/
 
 ## My Preparation Plan
-Need to focus on learning the Data Structures & Algorithms below.
+Need to focus on learning the Data Structures & Algorithms below. Sources used to make the plan [Mir Alis Medium Post](https://medium.com/@alimirio/before-you-start-solving-problems-on-leetcode-prep-work-9d65fc964c6f "Read this before you start solving problems on Leetcode (Prep Work)
+") , 
+
 ###Data Structures
 1. Dynamic Array
 2. Linked List
-* Stack & Queue
-* Hash Tables
-* Binary Search Tree
-Binary Heaps & Priority Queue
-Graphs
-Trie
+3. Stack & Queue
+4. Hash Tables
+5. Binary Search Tree
+6. Binary Heaps & Priority Queue
+7. Graphs
+8. Tree or Trie
 
 ### Algorithms
 1. Bit Manipulation & Numbers — difference btw Unsigned vs signed numbers
-Stability in Sorting
-Mergesort
-Quicksort
-Heapsort — Sort it in-place to get O(1) space
-Binary Search
-Selections — Kth Smallest Elements (Sort, QuickSelect, Mediums of Mediums) — Implement all three ways
-Permutations
-Subsets
-BFS Graph
-DFS Graph
-Dijkstra’s Algorithm (just learn the idea — no need to implement)
-Tree Traversals — BFS, DFS (in-order, pre-order, post-order): Implement Recursive and Iterative
-External Sort — No implementation; Just know the concept.
-NP-Complete (Video) — Just know the concept
-Topological Sort
-Detect cycle in an undirected graph
-Detect a cycle in a directed graph
-Count connected components in a graph
-Find strongly connected components in a graph
+2. Stability in Sorting
+3. Mergesort
+4. Quicksort
+5. Heapsort — Sort it in-place to get O(1) space
+6. Binary Search
+7. Selections — Kth Smallest Elements (Sort, QuickSelect, Mediums of Mediums) — Implement all three ways
+8. Permutations
+9. Subsets
+10. BFS Graph
+11. DFS Graph
+12. Dijkstra’s Algorithm (just learn the idea — no need to implement)
+13. Tree Traversals — BFS, DFS (in-order, pre-order, post-order): Implement Recursive and Iterative
+14. External Sort — No implementation; Just know the concept.
+15. NP-Complete (Video) — Just know the concept
+16. Topological Sort
+17. Detect cycle in an undirected graph
+18. Detect a cycle in a directed graph
+19. Count connected components in a graph
+20. Find strongly connected components in a graph
+
+###Implementing the Datastructure and Algorithm work
+After being comfortable with the data structures & algorithms above, have to do the following exercise multiple times (at least 2–3 times) until these can be done with eyes closed.
+
+1. Implement an ArrayList from scratch
+2. Reverse a linked list
+3. Implement a Stack & a Queue using Array
+4. Implement a HashTable with simple Hashing functions
+5. Implement a Graph using Adjacency List, and then write functions for BFS & DFS.
+6. Write the binary search algorithm both recursively and iteratively
+7. Write the merge sort algorithm
+8. Write the quicksort algorithm
+9. Print binary tree using DFS (in-order, preorder and post order — all three of them) and BFS.
+10. Memorize time & space complexities for common algorithms. Here’s an [interesting website.](https://www.bigocheatsheet.com/ "bigocheatsheet"),
+11. Implement a trie.
+12. Learn these important bit manipulation tricks.[geeksforgeeks bit tricks for CP]( https://www.geeksforgeeks.org/bit-tricks-competitive-programming/ "geeksforgeeks bit tricks"),
+
+
 
