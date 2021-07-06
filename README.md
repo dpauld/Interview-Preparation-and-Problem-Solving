@@ -24,3 +24,6 @@ https://dev.to/arslan_ah/the-ultimate-strategy-to-preparing-for-the-coding-inter
 
 ##Solutions to the CTCI(Cracking..) by GL
 https://github.com/careercup/CtCI-6th-Edition
+
+##Implementation of Common Data Structure and Algorithms using various languages
+https://the-algorithms.com/
