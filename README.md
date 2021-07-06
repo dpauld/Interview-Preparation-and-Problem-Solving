@@ -3,6 +3,7 @@
 ## Hackerearth - Codemonk for Understanding Data Structure and Alogorithm Concept
 
 ## Leetcode for practice + Leetfree
+Topic Specific Practise: https://leetcode.com/discuss/general-discussion/1058072/LeetCode-Advised-Problems-Sorted-by-Topics-and-Directions
 
 ## Geekforgeeks for Company Specific Practice
 
