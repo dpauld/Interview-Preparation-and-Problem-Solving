@@ -9,9 +9,9 @@ Topic Specific Practise: https://leetcode.com/discuss/general-discussion/1058072
 
 ## Cracking the coding interview
 
-https://seanprashad.com/leetcode-patterns/
+** https://seanprashad.com/leetcode-patterns/
 
-https://yangshun.github.io/tech-interview-handbook/best-practice-questions
+** https://yangshun.github.io/tech-interview-handbook/best-practice-questions
 
 https://github.com/jwasham/coding-interview-university#balanced-search-trees
 
