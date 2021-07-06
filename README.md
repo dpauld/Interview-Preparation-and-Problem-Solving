@@ -22,5 +22,5 @@ https://towardsdatascience.com/how-i-leetcode-for-6-months-and-land-a-job-at-ama
 
 https://dev.to/arslan_ah/the-ultimate-strategy-to-preparing-for-the-coding-interview-3ace
 
-##Solutions to the Cracking the CTCI by G
+##Solutions to the CTCI(Cracking..) by GL
 https://github.com/careercup/CtCI-6th-Edition
