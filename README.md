@@ -21,3 +21,6 @@ https://leetcode.com/problems/minimum-window-substring/discuss/26808/Here-is-a-1
 https://towardsdatascience.com/how-i-leetcode-for-6-months-and-land-a-job-at-amazon-b76bdfc79abb
 
 https://dev.to/arslan_ah/the-ultimate-strategy-to-preparing-for-the-coding-interview-3ace
+
+##Solutions to the Cracking the CTCI by G
+https://github.com/careercup/CtCI-6th-Edition
