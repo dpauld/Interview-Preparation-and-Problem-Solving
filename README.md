@@ -79,7 +79,7 @@ After being comfortable with the data structures & algorithms above, have to do 
 9. Print binary tree using DFS (in-order, preorder and post order — all three of them) and BFS.
 10. Memorize time & space complexities for common algorithms. Here’s an [interesting website.](https://www.bigocheatsheet.com/ "bigocheatsheet"),
 11. Implement a trie.
-12. Learn these important bit manipulation tricks.[geeksforgeeks bit tricks for CP]( https://www.geeksforgeeks.org/bit-tricks-competitive-programming/ "geeksforgeeks bit tricks"),
+12. Learn these important bit manipulation tricks. [geeksforgeeks bit tricks for CP]( https://www.geeksforgeeks.org/bit-tricks-competitive-programming/ "geeksforgeeks bit tricks"),
 
-
+### Practise on Leetcode
 
