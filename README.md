@@ -7,6 +7,8 @@ Topic Specific Practise: https://leetcode.com/discuss/general-discussion/1058072
 
 Leetcode problems by topics: https://github.com/wisdompeak/LeetCode
 
+https://leetcode.com/discuss/general-discussion/419062/list-of-leetcode-question-to-cover-all-the-concepts-and-type-of-questions
+
 ## Geekforgeeks for Company Specific Practice
 
 ## Cracking the coding interview
