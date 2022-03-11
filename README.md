@@ -5,6 +5,8 @@
 ## Leetcode for practice + Leetfree
 Topic Specific Practise: https://leetcode.com/discuss/general-discussion/1058072/LeetCode-Advised-Problems-Sorted-by-Topics-and-Directions
 
+Leetcode problems by topics: https://github.com/wisdompeak/LeetCode
+
 ## Geekforgeeks for Company Specific Practice
 
 ## Cracking the coding interview
